@@ -8,4 +8,4 @@ O projeto foi desenvolvido ao longo do curso [Aprenda Flutter e Desenvolva Apps 
 
 ### Demo
 
-![demo](./assets/demo.png)
+![demo](./assets/images/demo.png)
